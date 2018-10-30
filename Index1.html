@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ej cafteria las horas 2 </title>
+</head>
+<style>
+   body {
+background-color: #646262;
+}
+h1 {
+color:greenyellow;
+font-family:verdana;
+font-size:300%;
+text-align: center; }
+</style>
+<h1><strong>Cafetería Las Horas</strong></h1>
+<hr>
+<img src="img/carta.png" alt="carta" width="150" height="150">
+<figcaption>La Carta</figcaption>
+<br>
+<img src="img/cafe.png" alt="carta" width="150" height="150">
+<figcaption>El Café</figcaption>
+<br>
+<img src="img/contacto.png" alt="carta" width="150" height="150">
+<figcaption>Contacto</figcaption>
+<hr>
+<a href="lacarta.html" target="_blank">La Carta</a>
+<a href="elcafe.html" target="_blank">El Cafe</a>
+<a href="contacto.html" target="_blank">Contacto</a>
